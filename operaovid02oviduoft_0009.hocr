@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaovid02oviduoft_0009.png"; bbox 0 0 1523 2568; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 312 771 1132 837">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 312 771 1132 837">
+     <span class='ocr_line' id='line_1_1' title="bbox 312 771 1132 837; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 312 771 1132 837; x_wconf 80' lang='lat' dir='ltr'>O.SOHNE1DERO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 271 936 1172 1584">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 271 936 1172 1584">
+     <span class='ocr_line' id='line_1_2' title="bbox 526 936 908 975; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 526 936 908 975; x_wconf 80' lang='lat' dir='ltr'><strong>CALLIMACHEO</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 340 1088 1108 1129; baseline 0.003 -3"><span class='ocrx_word' id='word_1_3' title='bbox 340 1088 745 1128; x_wconf 83' lang='lat' dir='ltr'>INDECLINATAE</span> <span class='ocrx_word' id='word_1_4' title='bbox 786 1089 888 1127; x_wconf 79' lang='lat' dir='ltr'><strong>PER</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 928 1089 1108 1129; x_wconf 72' lang='lat' dir='ltr'>ANNOS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 271 1240 1172 1287; baseline 0.001 -7"><span class='ocrx_word' id='word_1_6' title='bbox 271 1240 846 1287; x_wconf 75' lang='lat' dir='ltr'><strong>DVODEQVADRAGINTA</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 892 1241 1172 1281; x_wconf 76' lang='lat' dir='ltr'><strong>AMICITIAE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 280 1392 1156 1432; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 280 1394 346 1432; x_wconf 88' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 379 1393 687 1432; x_wconf 81' lang='lat' dir='ltr'><strong>STVDIORVM</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 725 1392 951 1432; x_wconf 80' lang='lat' dir='ltr'>IVCVNDI</span> <span class='ocrx_word' id='word_1_11' title='bbox 989 1393 1156 1432; x_wconf 82' lang='lat' dir='ltr'><strong>SAEPE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 368 1545 1075 1584; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 368 1545 435 1584; x_wconf 77' lang='lat' dir='ltr'><strong>AC</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 474 1545 809 1584; x_wconf 81' lang='lat' dir='ltr'><strong>MVLTIMODIS</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 843 1545 1075 1584; x_wconf 79' lang='lat' dir='ltr'>CONCILH</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 407 1697 1034 1737">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 407 1697 1034 1737">
+     <span class='ocr_line' id='line_1_7' title="bbox 407 1697 1034 1737; baseline -0.003 0"><span class='ocrx_word' id='word_1_15' title='bbox 407 1697 792 1737; x_wconf 73' lang='lat' dir='ltr'><strong>MONVMENTVM</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 825 1697 916 1736; x_wconf 87' lang='lat' dir='ltr'><strong>VTI</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 952 1697 1034 1736; x_wconf 78' lang='lat' dir='ltr'><strong>SIT</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
